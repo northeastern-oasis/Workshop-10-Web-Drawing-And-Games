@@ -9,7 +9,7 @@
 
 Congratulations on making it to the final Oasis workshop! It's been a long journey full of different web concepts, programming languages, and of course, Kahoot. **That being said, attendance at previous Oasis workshops is not a prerequisite for attendance at this one.** All you'll need to know is some basic JavaScript and HTML :)
 
-The interactive portion of this workshop will focus on completing a basic app that accesses various public API's and displays the values they return. 
+The interactive portion of this workshop will focus on testing out some functions provided by p5.js and making a cool game! 
 
 ## Getting Started
 
