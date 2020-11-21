@@ -1,7 +1,5 @@
-# Game: Paws Is Hungry!
-
-In this folder we will implement a basic game using p5.js: **Paws is Hungry**! 
+# Game: Paws Is Hungry! (Solution) 
 
 In this game, Paws will try to chase the dog treat at your cursor. Your job is to keep it away from him as long as possible! If he gets to it, you will lose.
 
-To implement the game, follow along with the prompts in `script.js` and ask the Oasis mentors if you need help. Good luck!
+This folder contains the implemented game. You can test it by opening `index.html` in your browser. Make sure you attempt to implement it in the `game` folder first!
