@@ -15,8 +15,10 @@ function draw() {
     // https://p5js.org/reference/#/p5/circle
     circle(30, 30, 20);
 
-    // An ellipse at our mouse cursor
+    // An ellipse at our mouse cursor. We're making it red. Careful though, now everything draw after this will be red too
     // https://p5js.org/reference/#/p5/ellipse
+    // https://p5js.org/reference/#/p5/fill
+    fill('red')
     circle(mouseX, mouseY, 40, 20);
 
     // A basic square

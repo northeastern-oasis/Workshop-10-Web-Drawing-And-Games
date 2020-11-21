@@ -57,6 +57,9 @@ function draw() {
 
         // TODO: Set the text size to something large (maybe 40) and draw "You Lose" in the middle of the screen
         // hint: Can you use windowWidth and windowHeight to draw something in the middle of the screen
+        // https://p5js.org/reference/#/p5/textSize
+        // https://p5js.org/reference/#/p5/text
+
 
     }
 }
