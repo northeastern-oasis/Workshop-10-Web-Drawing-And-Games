@@ -27,7 +27,9 @@ The interactive portion of this workshop will focus on completing a basic app th
 
 We will be start out by testing out the basics of p5.js by drawing some shapes. This will be in the `intro` folder.
 
-Next, we will make a basic game 
+Next, we will make a basic game where we keep Paws from getting a dog treat. The starter code is in the `game` folder--you must finish implementing it!
+
+If you get stuck or want to try the game out before finishing, you can see the solution in the `gamesolution` folder
 
 ## After the Workshop
 
